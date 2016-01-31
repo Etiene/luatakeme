@@ -7,7 +7,7 @@ Format:
 ```
 
 ##List of orphans
-Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked / moved ownership to / adopted / supportted by someone else.
+Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked / moved ownership to / adopted / supported by someone else.
 * 
 
 ##List of siblings
