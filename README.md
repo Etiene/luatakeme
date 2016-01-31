@@ -10,8 +10,8 @@ Format:
 Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked / moved ownership to / adopted / supported by someone else.
 * 
 
-##List of siblings
-Sibling packages (yes, I just made this up, feel free to suggest a better name / analogy), are those with `ACTIVE` maintainer(s), looking for more maintainers / contributors / sis & bros to join in and help make the package better.
+## List of packages in need of assistance
+These packages have `ACTIVE` maintainer(s), looking for more maintainers / contributors / sis & bros to join in and help make the package better.
 * [Sailor](http://github.com/sailorproject): MIT
 
 ###To add packages to this list just make a pull request 
