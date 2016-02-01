@@ -8,7 +8,7 @@ Format:
 
 ##List of orphans
 Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked / moved ownership to / adopted / supported by someone else.
-* 
+* [luaLZO](https://github.com/starius/luaLZO): GPL
 
 ## List of packages in need of assistance
 These packages have `ACTIVE` maintainer(s), looking for more maintainers / contributors / sis & bros to join in and help make the package better.
