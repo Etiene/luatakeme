@@ -20,6 +20,7 @@ Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked /
 ## List of packages in need of assistance
 These packages have `ACTIVE` maintainer(s), looking for more maintainers / contributors / sis & bros to join in and help make the package better.
 * [Sailor](http://github.com/sailorproject): MIT
+* [redis-lua](https://github.com/nrk/redis-lua): MIT/X11
 
 ###To add packages to this list just make a pull request 
 I will publish this list from time to time on [Lua.Space](http://lua.space)
