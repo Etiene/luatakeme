@@ -13,7 +13,6 @@ Orphan packages are those with `INACTIVE` maintainers (abandoned) to be forked /
 * [ltcltk](https://github.com/stevedonovan/luabuild/tree/master/modules/ltcltk-0.9-2): MIT
 * [luacairo](http://www.dynaset.org/dogusanh/luacairo): MIT
 * [lqt](https://github.com/mkottman/lqt): MIT
-* [alt-getopt](http://luaforge.net/projects/alt-getopt/): MIT
 
 
 
